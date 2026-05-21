@@ -30,7 +30,7 @@ Pandas
 Scikit-learn
 
 # Machine Learning Workflow
--Load the dataset\n
+-Load the dataset
 -Split data into training and testing sets
 -Scale features using StandardScaler
 -Create a Machine Learning pipeline

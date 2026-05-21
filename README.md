@@ -68,8 +68,11 @@ R² Score
 
 # Project Structure
 california-house-price-prediction/
+
 │
+
 ├── housing_prediction.py
+
 ├── README.md
 
 # Learning Outcomes
